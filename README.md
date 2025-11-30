@@ -123,6 +123,16 @@ jupyter notebook credit_card_fraud_detection_project.ipynb
 
 ---
 
-## Author
-This notebook was generated with assistance from ChatGPT and can be used as a capstone project for supervised machine learning.
+## Getting Started
+Clone this repository: https://github.com/abdallahmohammed2025/Credit-Card-Fraud-Detection
 
+Installation & Setup
+To run the notebook and train the GAN, you need:
+
+Python 3.7+
+TensorFlow 2.x
+NumPy
+Matplotlib
+PIL (Pillow)
+Other dependencies as per the notebook
+You can install required packages with:
