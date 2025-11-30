@@ -126,7 +126,7 @@ jupyter notebook credit_card_fraud_detection_project.ipynb
 ## Getting Started
 Clone this repository: https://github.com/abdallahmohammed2025/Credit-Card-Fraud-Detection
 
-Installation & Setup
+## Installation & Setup
 To run the notebook and train the GAN, you need:
 
 Python 3.7+
